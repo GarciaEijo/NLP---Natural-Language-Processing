@@ -4,9 +4,7 @@ Welcome to my NLP projects repository! This repository contains a collection of 
 
 ## Overview
 
-- [Project 1: Project Name 1](./NLP%20Basics)
-- [Project 2: Project Name 2](./project2_directory)
-- [Project 3: Project Name 3](./project3_directory)
+- [Project 1: NLP Basics](./NLP%20Basics)
 - ...
 GarciaEijo/NLP-Natural-Language-Processing/NLP Basics
 ## Getting Started
