@@ -4,11 +4,11 @@ Welcome to my NLP projects repository! This repository contains a collection of 
 
 ## Overview
 
-- [Project 1: Project Name 1](./project1_directory)
+- [Project 1: Project Name 1](./NLP Basics)
 - [Project 2: Project Name 2](./project2_directory)
 - [Project 3: Project Name 3](./project3_directory)
 - ...
-
+GarciaEijo/NLP-Natural-Language-Processing/NLP Basics
 ## Getting Started
 
 To get started with any of the projects, simply navigate to the respective project directory linked above. Each project directory contains its own README file with detailed instructions on how to use, run, and contribute to the project.
