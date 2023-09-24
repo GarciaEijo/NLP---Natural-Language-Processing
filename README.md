@@ -4,7 +4,7 @@ Welcome to my NLP projects repository! This repository contains a collection of 
 
 ## Overview
 
-- [Project 1: Project Name 1](./NLP Basics)
+- [Project 1: Project Name 1](./NLP%20Basics)
 - [Project 2: Project Name 2](./project2_directory)
 - [Project 3: Project Name 3](./project3_directory)
 - ...
