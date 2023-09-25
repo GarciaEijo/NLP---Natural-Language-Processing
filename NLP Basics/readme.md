@@ -1,4 +1,4 @@
-# SpaCy NLP Basics Project
+# SpaCy NLP
 
 Welcome to the SpaCy NLP Basics project! This project serves as an introduction to natural language processing (NLP) using the SpaCy library. Below is a summary of the key components and tasks covered in this project:
 
