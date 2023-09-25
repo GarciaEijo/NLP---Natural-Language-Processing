@@ -4,7 +4,7 @@ Welcome to the SpaCy NLP Basics project! This project serves as an introduction 
 
 ## Project Overview
 
-**Objective:** To demonstrate fundamental NLP tasks using SpaCy with the text document "An Occurrence at Owl Creek Bridge" by Ambrose Bierce.
+**Objective:** To demonstrate fundamental NLP tasks using SpaCy.
 
 ### Project Components
 
