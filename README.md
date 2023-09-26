@@ -5,7 +5,7 @@ Welcome to my NLP projects repository! This repository contains a collection of 
 ## Overview
 
 - [Project 1: NLP Basics](./NLP%20Basics)
-- ...
+- [Project 2: Parts of speech](./Parts%20of%20speech)
 
 ## Getting Started
 
