@@ -7,6 +7,7 @@ Welcome to my NLP projects repository! This repository contains a collection of 
 - [Project 1: NLP Basics](./NLP%20Basics)
 - [Project 2: Parts of speech](./Parts%20of%20Speech)
 - [Project 3: Text Classification](./NLP%20Text%20Classification)
+- [Project 4: Sentiment Analysis](./Sentiment%20Analysis)
 
 ## Getting Started
 
